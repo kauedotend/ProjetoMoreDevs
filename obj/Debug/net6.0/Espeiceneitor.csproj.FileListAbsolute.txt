@@ -1,0 +1,14 @@
+C:\Users\marco.angelo\Desktop\R\Espeiceneitor\Espeiceneitor\bin\Debug\net6.0\Espeiceneitor.exe
+C:\Users\marco.angelo\Desktop\R\Espeiceneitor\Espeiceneitor\bin\Debug\net6.0\Espeiceneitor.deps.json
+C:\Users\marco.angelo\Desktop\R\Espeiceneitor\Espeiceneitor\bin\Debug\net6.0\Espeiceneitor.runtimeconfig.json
+C:\Users\marco.angelo\Desktop\R\Espeiceneitor\Espeiceneitor\bin\Debug\net6.0\Espeiceneitor.dll
+C:\Users\marco.angelo\Desktop\R\Espeiceneitor\Espeiceneitor\bin\Debug\net6.0\Espeiceneitor.pdb
+C:\Users\marco.angelo\Desktop\R\Espeiceneitor\Espeiceneitor\obj\Debug\net6.0\Espeiceneitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco.angelo\Desktop\R\Espeiceneitor\Espeiceneitor\obj\Debug\net6.0\Espeiceneitor.AssemblyInfoInputs.cache
+C:\Users\marco.angelo\Desktop\R\Espeiceneitor\Espeiceneitor\obj\Debug\net6.0\Espeiceneitor.AssemblyInfo.cs
+C:\Users\marco.angelo\Desktop\R\Espeiceneitor\Espeiceneitor\obj\Debug\net6.0\Espeiceneitor.csproj.CoreCompileInputs.cache
+C:\Users\marco.angelo\Desktop\R\Espeiceneitor\Espeiceneitor\obj\Debug\net6.0\Espeiceneitor.dll
+C:\Users\marco.angelo\Desktop\R\Espeiceneitor\Espeiceneitor\obj\Debug\net6.0\refint\Espeiceneitor.dll
+C:\Users\marco.angelo\Desktop\R\Espeiceneitor\Espeiceneitor\obj\Debug\net6.0\Espeiceneitor.pdb
+C:\Users\marco.angelo\Desktop\R\Espeiceneitor\Espeiceneitor\obj\Debug\net6.0\Espeiceneitor.genruntimeconfig.cache
+C:\Users\marco.angelo\Desktop\R\Espeiceneitor\Espeiceneitor\obj\Debug\net6.0\ref\Espeiceneitor.dll

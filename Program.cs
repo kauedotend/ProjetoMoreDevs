@@ -1,0 +1,3 @@
+﻿using Espeiceneitor;
+
+ProgramaEspacial.ExecutarProgramaEspacial();
